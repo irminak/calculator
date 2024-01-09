@@ -1,0 +1,14 @@
+/* .keyboard {
+    border: 3px solid black;
+
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+} */
+.keyboard {
+    background-color: #514a6d;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    flex-basis: 60%;
+}

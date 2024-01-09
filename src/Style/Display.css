@@ -1,0 +1,15 @@
+.display {
+    flex-grow: 1;
+    display: flex;
+    justify-content: flex-end;
+    align-items: end;
+    flex-wrap: wrap;
+    color: white;
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+    font-size: 60px;
+    padding: 10px 30px;
+    border-bottom: 5px solid transparent;
+    border-image: linear-gradient(0.25turn, #c6c2d6, #413c58);
+    border-image-slice: 1;
+}
