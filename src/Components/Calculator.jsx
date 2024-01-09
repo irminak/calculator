@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Display from './Display';
-import Keyboard from './Keyboard20';
+import Keyboard from './Keyboard';
 
 import '../Style/Calculator.css';
 
